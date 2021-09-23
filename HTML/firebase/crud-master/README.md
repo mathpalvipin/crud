@@ -22,5 +22,9 @@ npm run lint
 
 ### pwa 
 vue add @vue/pwa
+
+### serviceworker tutorial
+https://classroom.udacity.com/courses/ud899/  
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
